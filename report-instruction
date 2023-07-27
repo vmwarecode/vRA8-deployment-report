@@ -1,0 +1,11 @@
+Use case:
+write out the first 1000 deployments and their actions to a csv file
+
+1) download zip
+2) extract
+3) import embedded as abx 
+4) run abx
+5) find csv formatted data in abx log window
+6) save it to a file
+
+This is a draft version.  
